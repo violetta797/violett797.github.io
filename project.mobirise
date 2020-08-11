@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-08-06_1723",
+    "name": "lash_blg",
     "currentPage": "lash_blg.html",
     "theme": {
       "name": "mobirise4",
@@ -67,7 +67,14 @@
     ],
     "uniqCompNum": 40,
     "versionPublish": "4.12.4",
-    "imageResize": true
+    "imageResize": true,
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
